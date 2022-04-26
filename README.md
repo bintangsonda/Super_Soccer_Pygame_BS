@@ -85,16 +85,5 @@ WIN MENU
 AIM (2)
 
 MUSIC & SOUND
+![image](https://user-images.githubusercontent.com/71108329/165228522-c9d81ba8-c0aa-4cea-b476-56167cacc4d2.png)
 
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
